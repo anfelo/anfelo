@@ -1,5 +1,5 @@
 ### Hi there! 👋
-Hi, I'm an electronics engineer that got in love with Web development. I love the beauty of great design and the power of the web. Today I spend my free time exploring new projects like Solid.js, Svelte and Tauri. Also, currently learning Rust 🦀🫶 and I'm loving it!
+Hi, I'm an electronics engineer that got in love with software development. I still love to tinker around with hardware, but I don't do it as often as I would love to. I love silent mornings with coffee and the sound of my keyboard.
 
 I love to nerd 🤓 about coffee, read books and travel around the world 🌎.
 
